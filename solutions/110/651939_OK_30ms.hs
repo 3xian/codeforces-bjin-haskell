@@ -1,0 +1,1 @@
+p x|x="YES"|1>0="NO";main=getLine>>=putStr.p.flip elem[4,7].length.filter(flip elem"47")

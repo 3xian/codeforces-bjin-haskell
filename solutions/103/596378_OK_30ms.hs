@@ -1,0 +1,1 @@
+main=fmap(map read.words)getContents>>=print.sum.zipWith(\i x->x*i-i+1)[1..].tail

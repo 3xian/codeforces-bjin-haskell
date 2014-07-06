@@ -1,0 +1,1 @@
+p x|elem x[4,7]="YES"|1>0="NO";main=interact$p.length.filter(flip elem"47")

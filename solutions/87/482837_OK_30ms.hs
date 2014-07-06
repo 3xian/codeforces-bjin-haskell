@@ -1,0 +1,1 @@
+z[a,b]|l a>l b+1="Dasha"|l b>l a+1="Masha"|1>0="Equal"where{l=div$lcm a b};main=interact$z.map read.words

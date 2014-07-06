@@ -1,0 +1,1 @@
+p 4="YES";p 7="YES";p x="NO";main=interact$p.length.filter(`elem`"47")

@@ -1,0 +1,1 @@
+main=interact$show.sum.zipWith(\i x->x*i-i+1)[1..].tail.map read.words

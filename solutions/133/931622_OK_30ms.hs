@@ -1,0 +1,1 @@
+main=interact g;g x|any(`elem`"HQ9")x="YES"|1>0="NO"
